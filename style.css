@@ -1,0 +1,22 @@
+body {
+  background: url("https://th.bing.com/th/id/OIP.OMYK3EKosUw8oaPXoTWXewHaEK?pid=ImgDet&rs=1");
+  background-size: cover;
+}
+textarea {
+  outline: none;
+  border-radius: 10px;
+  border: none;
+}
+.wrapper {
+  text-align: center;
+}
+
+p {
+  margin-left: 120px;
+}
+.box {
+  display: flex;
+  size: 72%;
+  justify-content: center;
+  align-items: center;
+}
